@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Team Page</title>
+    <link rel="stylesheet" href="style.css">
+    <style> @media only screen and (max-width: 768px) {
+      
+      .div7{
+         flex-wrap:wrap;
+         flex-direction: column;
+         margin-top: 5%;
+      }
+      .div4a{
+         display: block
+         width=100%;
+         
+      }
+      }
+   }
+      </style>
+   
+    
+</head>
+<body>
+    <header>
+      <div class="header">
+         <div class="top-header">
+             <div class="left-header">
+                 <div id="hamburger" onclick="toogleNav();">
+                     <span class="bar"></span>
+                     <span class="bar"></span>
+                     <span class="bar"></span>
+                 </div>
+                 <div class="iitr-logo">
+                     <img src="https://cmsredesign.channeli.in/library/assets/images/iitrLogo.png" alt="iitr logo" width="100%">
+                 </div>
+             </div>
+             <table class="accessibilities">
+                 <tbody><tr>
+                     <td class="language">
+                         <a>हिन्दी</a>
+                         │<a>Eng</a>
+                     </td>
+                     <td class="sizechange">
+                         <span class="small">
+                             <img class="ui icon icon_image" data-icon="text_small" src="https://cmsredesign.channeli.in/library/assets/icons/text-small.svg">
+                         </span>
+                         <span class="medium">
+                             <img class="ui icon icon_image" data-icon="text_medium" src="https://cmsredesign.channeli.in/library/assets/icons/text-medium.svg">
+                         </span>
+                         <span class="big">
+                             <img class="ui icon icon_image" data-icon="text_big" src="https://cmsredesign.channeli.in/library/assets/icons/text-big.svg">
+                         </span>
+                     </td>
+                     <td class="theme">
+                         <span class="light-button">A</span>
+                         <span class="dark-button">A</span>
+                     </td>
+                     <td><img class="search" src="https://cmsredesign.channeli.in/library/assets/icons/search.svg"></td>
+                 </tr>
+                 <tr>
+                     <td><a href="#" class="calendar">CALENDAR</a></td>
+                     <td><a href="#" class="contact-us">CONTACT US</a></td>
+                     <td><a href="#" class="directory">DIRECTORY</a></td>
+                 </tr>
+             </tbody></table>
+ 
+ 
+ 
+ 
+         </div>
+
+
+
+         <nav id="navbar" class="" style="margin-bottom: 80px;">
+            <div class="nav-item"><a class="active" href="#">
+                    Institute
+                    <img src="https://cmsredesign.channeli.in/library/assets/icons/dropdown.svg" width="11" height="6">
+                </a></div>
+            <div class="nav-item"><a href="#">
+                    Admissions
+                    <img src="https://cmsredesign.channeli.in/library/assets/icons/dropdown.svg" width="11" height="6">
+                </a></div>
+            <div class="nav-item"><a href="#">
+                    Administration <img src="https://cmsredesign.channeli.in/library/assets/icons/dropdown.svg" width="11" height="6">
+                </a></div>
+            <div class="nav-item"><a href="#">
+                    Academic
+                    <img src="https://cmsredesign.channeli.in/library/assets/icons/dropdown.svg" width="11" height="6">
+                </a></div>
+            <div class="nav-item"><a href="#">Departments
+                    <img src="https://cmsredesign.channeli.in/library/assets/icons/dropdown.svg" width="11" height="6"></a>
+            </div>
+            <div class="nav-item"><a href="#">Research
+                    <img src="https://cmsredesign.channeli.in/library/assets/icons/dropdown.svg" width="11" height="6"></a>
+            </div>
+            <div class="nav-item"><a href="#">Careers
+                    <img src="https://cmsredesign.channeli.in/library/assets/icons/dropdown.svg" width="11" height="6"></a>
+            </div>
+            <div class="nav-item"><a href="#">Placements
+                    <img src="https://cmsredesign.channeli.in/library/assets/icons/dropdown.svg" width="11" height="6"></a>
+            </div>
+            <div class="nav-item"><a href="#">Resources
+                    <img src="https://cmsredesign.channeli.in/library/assets/icons/dropdown.svg" width="11" height="6"></a>
+            </div>
+        </nav>
+
+        <div3 class="div3">
+            <div3a class="div3a" style="display: flex; margin-top: 20px;margin-bottomb=20px;">
+               <div3a1 style="font-weight: bold;">
+                  HOME 
+               </div3a1>
+               <div3a1 >
+                  >
+               </div3a1>
+               <div3a1 >
+                  TEAM
+               </div3a1>
+            </div3a>
+            <div3b class="div3b1">
+               MEET THE TEAM
+            </div3b>
+            <div3b class="div3b2">
+               Get to know the developers and designers behind the website!
+            </div3b>
+         </div3> 
+         <div4b class="div4b" style="font-size: 18px; margin-top: 90px; justify-content:center; margin-left: 5%;">
+            Building technology infrastructure for the campus requires the collaborative efforts of a diverse team with complementary skills and expertise. The team plays a crucial role in ensuring the infrastructure's successful development, implementation, and maintenance, which is essential for supporting the campus community's needs and enhancing their overall experience.
+         </div4b> 
+         <div4b class="div4b" style="font-size: 28px; margin-top: 100px;  margin-left: 5%;  justify-content:flex-start;">
+            DESIGNERS
+         </div4b>  
+         
+<div5 class="div5" >
+   <div5a class="div5a">
+      <div><img src="C:\Users\bafna\Downloads\SM.png" width="286px" height="336px"></div>
+      <div style=" margin-left: 70px;">RISHIRAJ SHRIVASTAVA</div>
+      <div style=" margin-left: 70px;">Project Lead, III year</div>
+      <hr style="width:50%;text-align:center;margin-left:70px; color:rgba(255, 213, 61, 1);">
+
+       <div5asuper style="display: flex; align-items: center; justify-content: center;">
+         <div5a1a>
+         <a href="#"></a><img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\WhatsApp Image 2024-02-28 at 20.54.40_0ea110b9.jpg"></a>
+         </div5a1a>
+         <div5a1a>
+         <img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\WhatsApp Image 2024-02-28 at 20.54.40_0ea110b9.jpg">
+        </div5a1a>
+        <div5a1a>
+         <img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\WhatsApp Image 2024-02-28 at 20.54.40_0ea110b9.jpg">
+        </div5a1a>
+       </div5asuper>
+  </div5a>
+ 
+    <div5a class="div5a">
+      <div ><img src="C:\Users\bafna\Downloads\AA.png" width="240px" height="345px"></div>
+      <div style=" margin-left: 50px;">ANSHIKA ARORA</div>
+      <div style=" margin-left: 50px;">Project Lead, III year</div>
+      <hr style=" width:50%;text-align:center;margin: left 60px; color:rgba(255, 213, 61, 1);">
+
+       <div5asuper style="display: flex; align-items: center; justify-content: center;">
+         <div5a1a>
+         <img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\WhatsApp Image 2024-02-28 at 20.54.40_0ea110b9.jpg">
+         </div5a1a>
+         <div5a1a>
+         <img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\WhatsApp Image 2024-02-28 at 20.54.40_0ea110b9.jpg">
+        </div5a1a>
+        <div5a1a>
+         <img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\WhatsApp Image 2024-02-28 at 20.54.40_0ea110b9.jpg">
+        </div5a1a>
+       </div5asuper>
+  </div5a>
+
+    <div5a class="div5a">
+      <div ><img src="C:\Users\bafna\Downloads\GG.png" width="232px" height="376px"></div>
+      <div style=" margin-left: 60px;">GAURI GARG</div>
+      <div style=" margin-left: 50px;">Project Lead, III year</div>
+      <hr style="width:50%;text-align:center;margin-left:60px ;color:rgba(255, 213, 61, 1);">
+
+         <div5asuper style="display: flex; align-items: center; justify-content: center;">
+           <div5a1a>
+           <img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\WhatsApp Image 2024-02-28 at 20.54.40_0ea110b9.jpg">
+           </div5a1a>
+           <div5a1a>
+           <img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\WhatsApp Image 2024-02-28 at 20.54.40_0ea110b9.jpg">
+          </div5a1a>
+          <div5a1a>
+           <img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\WhatsApp Image 2024-02-28 at 20.54.40_0ea110b9.jpg">
+          </div5a1a>
+         </div5asuper>
+    </div5a>
+</div5>
+
+
+<div4b class="div4b" style="font-size: 28px; margin-top: 100px;  margin-left: 5%;  justify-content:flex-start;">
+    DEVELOPERS
+ </div4b>  
+
+<div5 class="div5">
+    <div5a class="div5a">
+       <div><img src="C:\Users\bafna\Downloads\AP.png" width="286px" height="336px"></div>
+       <div style=" margin-left: 90px;">AKHIL PUNIA</div>
+       <div style=" margin-left: 70px;">Project Lead, III year</div>
+       <hr style="width:50%;text-align:center;margin-left:70px;color:rgba(255, 213, 61, 1);">
+ 
+        <div5asuper style="display: flex; align-items: center; justify-content: center;">
+          <div5a1a>
+          <a href="#"></a><img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\WhatsApp Image 2024-02-28 at 20.54.40_0ea110b9.jpg"></a>
+          </div5a1a>
+          <div5a1a>
+          <img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\WhatsApp Image 2024-02-28 at 20.54.40_0ea110b9.jpg">
+         </div5a1a>
+         <div5a1a>
+          <img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\WhatsApp Image 2024-02-28 at 20.54.40_0ea110b9.jpg">
+         </div5a1a>
+        </div5asuper>
+   </div5a>
+  
+     <div5a class="div5a">
+       <div ><img src="C:\Users\bafna\Downloads\RS.png" width="240px" height="345px"></div>
+       <div style=" margin-left: 50px;">SAMRAT MIDDHA</div>
+       <div style=" margin-left: 50px;">Project Lead, III year</div>
+       <hr style="width:50%;text-align:center;margin-left:60px;color:rgba(255, 213, 61, 1);">
+ 
+        <div5asuper style="display: flex;align-items: center; justify-content: center;">
+          <div5a1a>
+          <img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\WhatsApp Image 2024-02-28 at 20.54.40_0ea110b9.jpg">
+          </div5a1a>
+          <div5a1a>
+          <img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\WhatsApp Image 2024-02-28 at 20.54.40_0ea110b9.jpg">
+         </div5a1a>
+         <div5a1a>
+          <img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\WhatsApp Image 2024-02-28 at 20.54.40_0ea110b9.jpg">
+         </div5a1a>
+        </div5asuper>
+   </div5a>
+ 
+     <div5a class="div5a">
+       <div ><img src="C:\Users\bafna\Downloads\NM.png" width="232px" height="376px"></div>
+       <div style=" margin-left: 60px;">NOBLE MITTAL</div>
+       <div style=" margin-left: 50px;">Project Lead, III year</div>
+       <hr style="width:50%;text-align:center;margin-left:60px ;color:rgba(255, 213, 61, 1);">
+ 
+          <div5asuper style="display: flex;align-items: center; justify-content: center;">
+            <div5a1a>
+            <img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\WhatsApp Image 2024-02-28 at 20.54.40_0ea110b9.jpg">
+            </div5a1a>
+            <div5a1a>
+            <img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\WhatsApp Image 2024-02-28 at 20.54.40_0ea110b9.jpg">
+           </div5a1a>
+           <div5a1a>
+            <img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\WhatsApp Image 2024-02-28 at 20.54.40_0ea110b9.jpg">
+           </div5a1a>
+          </div5asuper>
+     </div5a>
+ </div5>
+ <div5 class="div5">
+    <div5a class="div5a">
+       <div><img src="C:\Users\bafna\Downloads\AP.png" width="286px" height="336px"></div>
+       <div style=" margin-left: 90px;">AKHIL PUNIA</div>
+       <div style=" margin-left: 70px;">Project Lead, III year</div>
+       <hr style="width:50%;text-align:center;margin-left:70px;color:rgba(255, 213, 61, 1);">
+ 
+        <div5asuper style="display: flex;align-items: center; justify-content: center;">
+          <div5a1a>
+          <a href="#"></a><img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\WhatsApp Image 2024-02-28 at 20.54.40_0ea110b9.jpg"></a>
+          </div5a1a>
+          <div5a1a>
+          <img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\WhatsApp Image 2024-02-28 at 20.54.40_0ea110b9.jpg">
+         </div5a1a>
+         <div5a1a>
+          <img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\WhatsApp Image 2024-02-28 at 20.54.40_0ea110b9.jpg">
+         </div5a1a>
+        </div5asuper>
+   </div5a>
+  
+     <div5a class="div5a">
+       <div ><img src="C:\Users\bafna\Downloads\RS.png" width="240px" height="345px"></div>
+       <div style=" margin-left: 50px;">SAMRAT MIDDHA</div>
+       <div style=" margin-left: 50px;">Project Lead, III year</div>
+       <hr style="width:50%;text-align:center;margin-left:60px;color:rgba(255, 213, 61, 1);">
+ 
+        <div5asuper style="display: flex; align-items: center; justify-content: center;">
+          <div5a1a>
+          <img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\WhatsApp Image 2024-02-28 at 20.54.40_0ea110b9.jpg">
+          </div5a1a>
+          <div5a1a>
+          <img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\WhatsApp Image 2024-02-28 at 20.54.40_0ea110b9.jpg">
+         </div5a1a>
+         <div5a1a>
+          <img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\WhatsApp Image 2024-02-28 at 20.54.40_0ea110b9.jpg">
+         </div5a1a>
+        </div5asuper>
+   </div5a>
+ 
+     <div5a class="div5a">
+       <div><img src="C:\Users\bafna\Downloads\NM.png" width="232px" height="376px"></div>
+       <div style=" margin-left: 60px;">NOBLE MITTAL</div>
+       <div style=" margin-left: 60px;">Project Lead, III year</div>
+       <hr style="width:50%;text-align:center;margin-left:60px;color:rgba(255, 213, 61, 1);">
+ 
+          <div5asuper style="display: flex;align-items: center; justify-content: center;">
+            <div5a1a>
+            <img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\WhatsApp Image 2024-02-28 at 20.54.40_0ea110b9.jpg">
+            </div5a1a>
+            <div5a1a>
+            <img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\WhatsApp Image 2024-02-28 at 20.54.40_0ea110b9.jpg">
+           </div5a1a>
+           <div5a1a>
+            <img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\WhatsApp Image 2024-02-28 at 20.54.40_0ea110b9.jpg">
+           </div5a1a>
+          </div5asuper>
+     </div5a>
+ </div5>
+ 
+ 
+
+ 
+ 
+
+
+
+<div7 class="div7">
+   <div7a class="div7a">
+       <div7a1 style="width: max-content; margin-bottom: 20px;">
+      Department of Chemical Engineering <br>
+      IIT Roorkee
+       </div7a1>
+       <div7a1 class="div7a" style="width: max-content; margin-bottom: 20px;">
+        <img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\b57719757bbd107331a4b5ef90b1ad99.jpeg" width="194px" height="113px" style="justify-content: flex-start;">        </div7a1>
+       <div7a1 style="width: max-content; margin-bottom: 10px;">
+        Contact us
+      </div7a1>
+     <div7a1 style="display: flex; width: max-content; margin-bottom: 10px;">
+           <div7a1a>
+           <img src= "C:\Users\bafna\Downloads\callvector.svg" />
+          
+         123457997,4725852981
+          </div7a1a>
+       </div7a1>
+
+    <div7a1 style="display: flex;">
+       <div7a1a style="display: flex; width: max-content; margin-bottom: 10px;">
+         <img src="C:\Users\bafna\Downloads\mailvector.svg" />
+       
+         iitrconnect@iitr.ac.in
+       </div7a1a>
+      </div7a1> 
+
+      <div7a1 style="display: flex;">
+          <div7a1>
+            <img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\WhatsApp Image 2024-02-28 at 20.54.40_0ea110b9.jpg">
+            </div7a1>
+            <div7a1>
+            <img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\WhatsApp Image 2024-02-28 at 20.54.40_0ea110b9.jpg">
+           </div7a1>
+           <div7a1>
+            <img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\WhatsApp Image 2024-02-28 at 20.54.40_0ea110b9.jpg">
+           </div7a1>
+           <div7a1>
+            <img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\WhatsApp Image 2024-02-28 at 20.54.40_0ea110b9.jpg">
+            </div7a1>
+          <div7a1>
+          <img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\WhatsApp Image 2024-02-28 at 20.54.40_0ea110b9.jpg">
+          </div7a1>
+      </div7a1>
+   </div7a>
+
+   <div7a class="div7a">
+      <div7a1 style="width: max-content; margin-bottom: 40px;" ><strong>Explore</strong></div7a1> 
+      <div7a1> Departments</div7a1>
+      <div7a1 > Departments</div7a1>
+      <div7a1 > Departments</div7a1>
+      <div7a1 > Departments</div7a1>
+      <div7a1 > Departments</div7a1>
+      <div7a1 > Departments</div7a1>
+      <div7a1 > Departments</div7a1>
+      
+
+    </div7a>
+ 
+   
+   <div7a class="div7a">
+      <div7a1 style="width: max-content; margin-bottom: 40px;">
+       <strong>Quick Actions</strong> 
+      </div7a1> 
+      <div7a1>
+     Apply Online
+      </div7a1>
+      <div7a1>
+       Donate
+       </div7a1>
+     <div7a1>
+      Intranet Portal
+     </div7a1>
+       <div7a1>
+      Webmail
+      </div7a1>
+      <div7a1>
+       Book guest house
+       </div7a1>
+       <div7a1>
+       Support @IITR
+       </div7a1>
+       <div7a1>
+       Give Feedback
+       </div7a1>
+    </div7a>
+
+   <div7a class="div7a">
+      <div7a1 style="background-color:  rgba(196, 196, 196, 1);" >
+       <img src="C:\Users\bafna\Downloads\DEPCHEM.jpg" width="272px" height="182px">
+      </div7a1>
+     
+      <div7a1>
+        <img src="C:\Users\bafna\Downloads\Cloudvector.svg" />
+         Department Brochure
+      </div7a1>
+      <div7a1>
+         Photo Credits:Photography Club,IITR
+      </div7a1>
+    <div7a1>
+      Made with <img src="C:\Users\bafna\Downloads\lovevector.svg"/>  by :<br>
+      Information Management Group, IITR
+    <div7a1>
+   </div7a>
+   
+</div7>
+
+
+<div8 class="div8">
+   <div8a class="div8a">
+   <div8a1 style="margin-left: 10px;">
+   Sitemap
+   </div8a1>
+   <div8a1  style="margin-left: 35px;">
+    Privacy Policy
+   </div8a1>
+   <div8a1 style="margin-left: 35px;">
+     Accessibility
+   </div8a1>
+</div8a >
+<div8b style="margin-right: 145px;">
+   Total Pageviews :
+</div8b>
+   
+</div8>
+
+<div9 style="color: white;" class="div9">
+   Copyright 2024, Institute Computer Centre, IIT Roorkee
+</div9>
+<div style="color: white;"></div>
