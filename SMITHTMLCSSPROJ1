@@ -18,7 +18,7 @@
          
       }
       }
-   }
+   
       </style>
    
     
@@ -108,7 +108,7 @@
         </nav>
 
         <div3 class="div3">
-            <div3a class="div3a" style="display: flex; margin-top: 20px;margin-bottomb=20px;">
+            <div3a class="div3a" style="display: flex; margin-top: 20px;margin-bottom: 20px;">
                <div3a1 style="font-weight: bold;">
                   HOME 
                </div3a1>
@@ -135,10 +135,10 @@
          
 <div5 class="div5" >
    <div5a class="div5a">
-      <div><img src="C:\Users\bafna\Downloads\SM.png" width="286px" height="336px"></div>
-      <div style=" margin-left: 70px;">RISHIRAJ SHRIVASTAVA</div>
-      <div style=" margin-left: 70px;">Project Lead, III year</div>
-      <hr style="width:50%;text-align:center;margin-left:70px; color:rgba(255, 213, 61, 1);">
+      <div style="align-self: center;"><img src="C:\Users\bafna\Downloads\SM.png" height="337px" ></div>
+      <div style="margin-top: 5%;" >RISHIRAJ SHRIVASTAVA</div>
+      <div >Project Lead, III year</div>
+      <hr style="width:50%;text-align:center;color:rgba(255, 213, 61, 1);">
 
        <div5asuper style="display: flex; align-items: center; justify-content: center;">
          <div5a1a>
@@ -154,10 +154,10 @@
   </div5a>
  
     <div5a class="div5a">
-      <div ><img src="C:\Users\bafna\Downloads\AA.png" width="240px" height="345px"></div>
-      <div style=" margin-left: 50px;">ANSHIKA ARORA</div>
-      <div style=" margin-left: 50px;">Project Lead, III year</div>
-      <hr style=" width:50%;text-align:center;margin: left 60px; color:rgba(255, 213, 61, 1);">
+      <div style="align-self: center;" ><img src="C:\Users\bafna\Downloads\AA.png"  height="337px"></div>
+      <div style="margin-top: 5%;">ANSHIKA ARORA</div>
+      <div >Project Lead, III year</div>
+      <hr style=" width:50%;text-align:center; color:rgba(255, 213, 61, 1);">
 
        <div5asuper style="display: flex; align-items: center; justify-content: center;">
          <div5a1a>
@@ -173,10 +173,10 @@
   </div5a>
 
     <div5a class="div5a">
-      <div ><img src="C:\Users\bafna\Downloads\GG.png" width="232px" height="376px"></div>
-      <div style=" margin-left: 60px;">GAURI GARG</div>
-      <div style=" margin-left: 50px;">Project Lead, III year</div>
-      <hr style="width:50%;text-align:center;margin-left:60px ;color:rgba(255, 213, 61, 1);">
+      <div style="align-self: center;"><img src="C:\Users\bafna\Downloads\GG.png"  height="337px"></div>
+      <div style="margin-top: 5%;" >GAURI GARG</div>
+      <div >Project Lead, III year</div>
+      <hr style="width:50%;text-align:center;color:rgba(255, 213, 61, 1);">
 
          <div5asuper style="display: flex; align-items: center; justify-content: center;">
            <div5a1a>
@@ -199,10 +199,10 @@
 
 <div5 class="div5">
     <div5a class="div5a">
-       <div><img src="C:\Users\bafna\Downloads\AP.png" width="286px" height="336px"></div>
-       <div style=" margin-left: 90px;">AKHIL PUNIA</div>
-       <div style=" margin-left: 70px;">Project Lead, III year</div>
-       <hr style="width:50%;text-align:center;margin-left:70px;color:rgba(255, 213, 61, 1);">
+       <div style="align-self: center;"><img src="C:\Users\bafna\Downloads\AP.png"  height="337px"></div>
+       <div style="margin-top: 5%;">AKHIL PUNIA</div>
+       <div>Project Lead, III year</div>
+       <hr style="width:50%;text-align:center;color:rgba(255, 213, 61, 1);">
  
         <div5asuper style="display: flex; align-items: center; justify-content: center;">
           <div5a1a>
@@ -218,14 +218,14 @@
    </div5a>
   
      <div5a class="div5a">
-       <div ><img src="C:\Users\bafna\Downloads\RS.png" width="240px" height="345px"></div>
-       <div style=" margin-left: 50px;">SAMRAT MIDDHA</div>
-       <div style=" margin-left: 50px;">Project Lead, III year</div>
-       <hr style="width:50%;text-align:center;margin-left:60px;color:rgba(255, 213, 61, 1);">
+       <div style="align-self: center;"><img src="C:\Users\bafna\Downloads\RS.png"  height="337px"></div>
+       <div style="margin-top: 5%;">SAMRAT MIDDHA</div>
+       <div >Project Lead, III year</div>
+       <hr style="width:50%;text-align:center;color:rgba(255, 213, 61, 1);">
  
         <div5asuper style="display: flex;align-items: center; justify-content: center;">
           <div5a1a>
-          <img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\WhatsApp Image 2024-02-28 at 20.54.40_0ea110b9.jpg">
+          <img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\WhatsApp Image 2024-02-28 at 20.54.40_0ea110b9.jpg" >
           </div5a1a>
           <div5a1a>
           <img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\WhatsApp Image 2024-02-28 at 20.54.40_0ea110b9.jpg">
@@ -237,10 +237,10 @@
    </div5a>
  
      <div5a class="div5a">
-       <div ><img src="C:\Users\bafna\Downloads\NM.png" width="232px" height="376px"></div>
-       <div style=" margin-left: 60px;">NOBLE MITTAL</div>
-       <div style=" margin-left: 50px;">Project Lead, III year</div>
-       <hr style="width:50%;text-align:center;margin-left:60px ;color:rgba(255, 213, 61, 1);">
+       <div style="align-self: center;"><img src="C:\Users\bafna\Downloads\NM.png"  height="337px"></div>
+       <div style="margin-top: 5%;">NOBLE MITTAL</div>
+       <div >Project Lead, III year</div>
+       <hr style="width:50%;text-align:center;color:rgba(255, 213, 61, 1);">
  
           <div5asuper style="display: flex;align-items: center; justify-content: center;">
             <div5a1a>
@@ -257,12 +257,12 @@
  </div5>
  <div5 class="div5">
     <div5a class="div5a">
-       <div><img src="C:\Users\bafna\Downloads\AP.png" width="286px" height="336px"></div>
-       <div style=" margin-left: 90px;">AKHIL PUNIA</div>
-       <div style=" margin-left: 70px;">Project Lead, III year</div>
-       <hr style="width:50%;text-align:center;margin-left:70px;color:rgba(255, 213, 61, 1);">
+       <div style="align-self: center;"><img src="C:\Users\bafna\Downloads\AP.png"  height="337px"></div>
+       <div  style="margin-top: 5%;">AKHIL PUNIA</div>
+       <div>Project Lead, III year</div>
+       <hr style="width:50%;text-align:center;color:rgba(255, 213, 61, 1);">
  
-        <div5asuper style="display: flex;align-items: center; justify-content: center;">
+        <div5asuper style="display: flex; align-items: center; justify-content: center;">
           <div5a1a>
           <a href="#"></a><img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\WhatsApp Image 2024-02-28 at 20.54.40_0ea110b9.jpg"></a>
           </div5a1a>
@@ -276,14 +276,14 @@
    </div5a>
   
      <div5a class="div5a">
-       <div ><img src="C:\Users\bafna\Downloads\RS.png" width="240px" height="345px"></div>
-       <div style=" margin-left: 50px;">SAMRAT MIDDHA</div>
-       <div style=" margin-left: 50px;">Project Lead, III year</div>
-       <hr style="width:50%;text-align:center;margin-left:60px;color:rgba(255, 213, 61, 1);">
+       <div style="align-self: center;"><img src="C:\Users\bafna\Downloads\RS.png"  height="337px"></div>
+       <div style="margin-top: 5%;">SAMRAT MIDDHA</div>
+       <div >Project Lead, III year</div>
+       <hr style="width:50%;text-align:center;color:rgba(255, 213, 61, 1);">
  
-        <div5asuper style="display: flex; align-items: center; justify-content: center;">
+        <div5asuper style="display: flex;align-items: center; justify-content: center;">
           <div5a1a>
-          <img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\WhatsApp Image 2024-02-28 at 20.54.40_0ea110b9.jpg">
+          <img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\WhatsApp Image 2024-02-28 at 20.54.40_0ea110b9.jpg" >
           </div5a1a>
           <div5a1a>
           <img src="C:\Users\bafna\OneDrive\Pictures\Saved Pictures\HTML IMG PAGE\Page 1 - HTML _ CSS_files\WhatsApp Image 2024-02-28 at 20.54.40_0ea110b9.jpg">
@@ -295,10 +295,10 @@
    </div5a>
  
      <div5a class="div5a">
-       <div><img src="C:\Users\bafna\Downloads\NM.png" width="232px" height="376px"></div>
-       <div style=" margin-left: 60px;">NOBLE MITTAL</div>
-       <div style=" margin-left: 60px;">Project Lead, III year</div>
-       <hr style="width:50%;text-align:center;margin-left:60px;color:rgba(255, 213, 61, 1);">
+       <div style="align-self: center;"><img src="C:\Users\bafna\Downloads\NM.png"  height="337px"></div>
+       <div style="margin-top: 5%;" >NOBLE MITTAL</div>
+       <div >Project Lead, III year</div>
+       <hr style="width:50%;text-align:center;color:rgba(255, 213, 61, 1);">
  
           <div5asuper style="display: flex;align-items: center; justify-content: center;">
             <div5a1a>
@@ -313,7 +313,6 @@
           </div5asuper>
      </div5a>
  </div5>
- 
  
 
  
@@ -366,8 +365,8 @@
           </div7a1>
       </div7a1>
    </div7a>
-
-   <div7a class="div7a">
+<div7a class="div7A">
+      <div7A class="div7a">
       <div7a1 style="width: max-content; margin-bottom: 40px;" ><strong>Explore</strong></div7a1> 
       <div7a1> Departments</div7a1>
       <div7a1 > Departments</div7a1>
@@ -378,10 +377,10 @@
       <div7a1 > Departments</div7a1>
       
 
-    </div7a>
+    </div7A>
  
    
-   <div7a class="div7a">
+   <div7A class="div7a">
       <div7a1 style="width: max-content; margin-bottom: 40px;">
        <strong>Quick Actions</strong> 
       </div7a1> 
@@ -406,7 +405,8 @@
        <div7a1>
        Give Feedback
        </div7a1>
-    </div7a>
+    </div7A>
+   </div7a>
 
    <div7a class="div7a">
       <div7a1 style="background-color:  rgba(196, 196, 196, 1);" >
